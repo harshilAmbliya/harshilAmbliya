@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Harshil Ambliya! 👋
 
 Welcome to my GitHub profile! I'm a passionate developer who loves building cool projects, learning new technologies, and contributing to open source. 🚀
 
@@ -23,12 +23,6 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building cool
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=onedark" alt="GitHub Trophies" />
-</p>
-
-## 🐍 Contribution Snake Game
-
-<p align="center">
-  <img src="https://github.com/your-github-username/your-github-username/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake Game" />
 </p>
 
 ## 🌍 Connect With Me
