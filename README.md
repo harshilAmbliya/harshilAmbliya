@@ -25,11 +25,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building cool
 [![](https://visitcount.itsvg.in/api?id=harshilAmbliya&icon=6&color=6)](https://visitcount.itsvg.in)
 
 ## Github Activity
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-</picture>
+![Snake Animation](https://github.com/harshilAmbliya/harshilAmbliya/blob/output/assets/snake/github-contribution-grid-snake.svg)
 
 ## 🌍 Connect With Me
 
